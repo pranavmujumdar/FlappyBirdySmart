@@ -742,7 +742,7 @@ MonoBehaviour:
   agentParameters:
     maxStep: 0
   hasUpgradedFromAgentParameters: 1
-  maxStep: 5000
+  maxStep: 100000
   ScoreZone: {fileID: 82186458863044817}
   useVectorObs: 1
   tapForce: 250
@@ -823,8 +823,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31a473923b0dbe14e8520bf923d7a174, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spacing: 3
-  pipeVariance: 0.5
+  spacing: 3.5
+  pipeVariance: 0.2
   speed: 5
   bottomPipe: {fileID: 67197835}
 --- !u!1 &82186459760842452
@@ -1454,8 +1454,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 31a473923b0dbe14e8520bf923d7a174, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spacing: 3
-  pipeVariance: 0.5
+  spacing: 3.5
+  pipeVariance: 0.2
   speed: 5
   bottomPipe: {fileID: 7576137019197471942}
 --- !u!1 &6761831298517408765
