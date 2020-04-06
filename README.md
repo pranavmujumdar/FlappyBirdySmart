@@ -11,6 +11,6 @@ This is a Unity project I made to get a better understanding of implementation o
 * The backgrounda and obstacles (pipes) created using GIMP
 * The bird sprites used from [xstrack1's assets](https://github.com/xstreck1/Flappy-Agents)
 
-# ML Agents(v0.15)
+## ML Agents(v0.15)
 * Unity's mlagents toolkit, made for creating a game AI
 * Please refer to the official description and setup [here](https://github.com/Unity-Technologies/ml-agents)
