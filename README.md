@@ -1,6 +1,6 @@
 # FlappyBirdySmart
 This is a Unity project I made to get a better understanding of implementation of Unity's ML-Agents library(v0.15)
-[!Gif](https://media.giphy.com/media/fUSx2pEdWvoYB3SmxL/giphy.gif)
+![Gif](https://media.giphy.com/media/fUSx2pEdWvoYB3SmxL/giphy.gif)
 ## Installation
 1. Unity 19.3.0f6
 2. MLAgents Toolkit 0.15
